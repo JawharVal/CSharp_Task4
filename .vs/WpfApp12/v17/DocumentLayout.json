@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\routemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\routemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\stopstotabsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\stopstotabsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\busviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\busviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\busstopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\busstopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\busstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\busstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\texttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\texttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\tupleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\tupleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\viewmodelbase .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\viewmodelbase .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\ipassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\ipassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\elderly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\elderly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\commuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\commuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|c:\\users\\admin\\desktop\\demo\\wpfapp12\\wpfapp12\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212589C-C722-42A5-A9B4-66AB26DA5DC7}|WpfApp12\\WpfApp12.csproj|solutionrelative:wpfapp12\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusStop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\BusStop.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\BusStop.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\BusStop.cs",
+              "RelativeToolTip": "WpfApp12\\BusStop.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwv0QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:41:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusStopViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\BusStopViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\BusStopViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\BusStopViewModel.cs",
+              "RelativeToolTip": "WpfApp12\\BusStopViewModel.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAJsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:47:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp12\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp12\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T22:38:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp12\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:38:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\RouteManager.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\RouteManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\RouteManager.cs",
+              "RelativeToolTip": "WpfApp12\\RouteManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:56:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\BusViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\BusViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\BusViewModel.cs",
+              "RelativeToolTip": "WpfApp12\\BusViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:46:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Passenger.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\Passenger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Passenger.cs",
+              "RelativeToolTip": "WpfApp12\\Passenger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:01:39.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp12\\RelayCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:47:16.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopsToTabsConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\StopsToTabsConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\StopsToTabsConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\StopsToTabsConverter.cs",
+              "RelativeToolTip": "WpfApp12\\StopsToTabsConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:03:02.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\TextToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\TextToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\TextToVisibilityConverter.cs",
+              "RelativeToolTip": "WpfApp12\\TextToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:34:49.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Student.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Student.cs",
+              "RelativeToolTip": "WpfApp12\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:42:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Bus.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\Bus.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Bus.cs",
+              "RelativeToolTip": "WpfApp12\\Bus.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:40:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp12\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:45:27.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TupleConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\TupleConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\TupleConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\TupleConverter.cs",
+              "RelativeToolTip": "WpfApp12\\TupleConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:24:00.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewModelBase .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\ViewModelBase .cs",
+              "RelativeDocumentMoniker": "WpfApp12\\ViewModelBase .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\ViewModelBase .cs",
+              "RelativeToolTip": "WpfApp12\\ViewModelBase .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:46:25.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tourist.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Tourist.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\Tourist.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Tourist.cs",
+              "RelativeToolTip": "WpfApp12\\Tourist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:37:43.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPassenger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\IPassenger.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\IPassenger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\IPassenger.cs",
+              "RelativeToolTip": "WpfApp12\\IPassenger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:39:20.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Elderly.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Elderly.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\Elderly.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Elderly.cs",
+              "RelativeToolTip": "WpfApp12\\Elderly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:36:30.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Commuter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Commuter.cs",
+              "RelativeDocumentMoniker": "WpfApp12\\Commuter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\demo\\WpfApp12\\WpfApp12\\Commuter.cs",
+              "RelativeToolTip": "WpfApp12\\Commuter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:37:28.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

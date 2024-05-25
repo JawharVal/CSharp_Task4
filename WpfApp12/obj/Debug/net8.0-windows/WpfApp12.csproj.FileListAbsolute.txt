@@ -1,0 +1,105 @@
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.exe
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.deps.json
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.runtimeconfig.json
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.g.resources
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\refint\WpfApp12.dll
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\ref\WpfApp12.dll
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.cache
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.lref
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.exe
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.deps.json
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.runtimeconfig.json
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.g.resources
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\refint\WpfApp12.dll
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.genruntimeconfig.cache
+C:\Users\Admin\Desktop\demo\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\ref\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.exe
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.deps.json
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.runtimeconfig.json
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.lref
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.g.resources
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfoInputs.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfo.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\refint\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.genruntimeconfig.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\ref\WpfApp12.dll
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.exe
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.deps.json
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.runtimeconfig.json
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.cache
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.lref
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.g.resources
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\refint\WpfApp12.dll
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.genruntimeconfig.cache
+C:\Users\Admin\Desktop\bills-collector-backend-master\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\ref\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.exe
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.deps.json
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.runtimeconfig.json
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\bin\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.lref
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.g.resources
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfoInputs.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.AssemblyInfo.cs
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\refint\WpfApp12.dll
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.pdb
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\WpfApp12.genruntimeconfig.cache
+C:\Users\legion\Desktop\Nouveau dossier (5)\Nouveau dossier\WpfApp12\WpfApp12\obj\Debug\net8.0-windows\ref\WpfApp12.dll
